@@ -1,0 +1,13 @@
+ff7a520f,Brown,Brun,Braun,Marrone,Marrón
+fff86918,Orange,Orange,Orange,Arancione,Naranja
+ff000000,Black,Noir,Schwarz,Nero,Negro
+ff1eab14,Green,Vert,Grün,Verde,Verde
+fffdff25,Yellow,Juane,Gelb,Giallo,Amarillo
+ff7f7f7f,Gray,Gris,Grau,Grigio,Gris
+ff7d00e5,Purple,Poupre,Lila,Porpora,Púrpura
+fff71514,Red,Rouge,Rot,Rosso,Rojo
+ff28c8a5,Turquoise,Turquoise,Türkis,Turchese,Turquesa
+ffffffff,White,Blanc,Blau,Bianco,Blanco
+ff1b00fb,Blue,Bleu,Blau,Blu,Azul
+fff76169,Pink,Rose,Rosa,Rosa,Rosa
+fff2f2f2,Please click on a color chip,S'il vous plaît cliquer sur une puce de couleur,Bitte klicken Sie auf einen Farbchip,Si prega di cliccare su un chip di colore,Por favor haga clic en una ficha de color 
